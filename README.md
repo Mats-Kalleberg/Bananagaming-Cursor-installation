@@ -1,7 +1,7 @@
 # Bananagaming-Cursor-installation
 Installs the Yellow Cursor that maxim from BananaGaming uses or used
 
-# How to use
+# How to install/use
 
 1. Extract the zipped folder
 2. Run Install.bat
